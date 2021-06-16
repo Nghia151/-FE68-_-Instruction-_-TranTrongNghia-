@@ -86,7 +86,7 @@
 	background-size: cover;
 }
 .contact-form input,.contact-form textarea{
-	padding:14px;
+	padding:10px;
 	border-radius: 0px;
 	background-color: #f5f5f5;
 }
@@ -94,7 +94,7 @@
 	background-color: #ec1955;
 	color: white;
 	border-radius: 0px;
-	margin-top:25px;
+	margin-top:11px;
 	font-size:20px;
 }
 .btn-contact-submit:hover{
