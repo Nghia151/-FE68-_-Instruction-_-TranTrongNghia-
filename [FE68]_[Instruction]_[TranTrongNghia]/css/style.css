@@ -487,15 +487,20 @@ header{
 }
 .footer__form input {
 	height:40px;
-	width:70%;
+	/* width:70%; */
+    flex: auto;
+    padding: 0 15px;
+    outline: none;
+    border: none;
 }
 .btn-footer-submit{
 	background-color: #ff4f81;
 	border-radius: 0px;
 	height: 40px;
-	margin-top:-6px;
+    padding: 0 15px;
+	/* margin-top:-6px; */
 	cursor:pointer;
-	width:25%;
+	/* width:25%; */
 }
 .btn-footer-submit:hover{
 	background-color: #ec1955;
